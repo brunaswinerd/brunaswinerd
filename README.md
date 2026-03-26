@@ -1,8 +1,8 @@
-<h2 align="center">Olá 👋, eu sou a Bruna</h2>
+<h2 align="center">Olá 👋</h2>
 
 ###
 
-<p align="center">Estudante de Tecnologia da Informação e futura desenvolvedora de software.</p>
+<p align="center">Estudante de Análise de Sistemas e desenvolvedora de software.</p>
 <p align="center">Atualmente estou me aprofundando em Java.</p>
 
 ###
