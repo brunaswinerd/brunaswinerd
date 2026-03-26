@@ -3,7 +3,7 @@
 ###
 
 <p align="center">Estudante de Análise de Sistemas e desenvolvedora de software.</p>
-<p align="center">Atualmente estou me aprofundando em Java.</p>
+<p align="center">Atualmente estou me aprofundando em Java e Spring Boot.</p>
 
 ###
 
