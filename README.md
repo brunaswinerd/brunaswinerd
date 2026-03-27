@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Estudante de Análise de Sistemas e desenvolvedora de software.</p>
+<p align="center">Graduanda em Análise de Sistemas e desenvolvedora de software.</p>
 <p align="center">Atualmente estou me aprofundando em Java e Spring Boot.</p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<h6 align="center">Análise de sistemas: Levantamento de requisitos, Casos de uso, Modelagem UML.<br>Arquitetura e Padrões de Software: MVC, APIs RESTful e Arquitetura em Camadas.<br>Fundamentos de Programação: Lógica de Programação, Algoritmos e Estruturas de Dados.<br>Ferramentas de Gestão e Produtividade: Pacote Office, Google Workspace, Jira, Trello e Notion.</h6>
+<h6 align="center">Análise de sistemas: Levantamento de Requisitos, Casos de Uso, Modelagem UML.<br>Arquitetura e Padrões de Software: MVC, APIs RESTful e Arquitetura em Camadas.<br>Fundamentos de Programação: Lógica de Programação, Algoritmos e Estruturas de Dados.<br>Ferramentas de Gestão e Produtividade: Pacote Office, Google Workspace, Jira, Trello e Notion.</h6>
 
 ###
 
